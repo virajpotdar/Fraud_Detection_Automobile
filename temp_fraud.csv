@@ -1,0 +1,11 @@
+months_as_customer,age,policy_state,policy_deductable,policy_annual_premium,umbrella_limit,incident_type,collision_type,incident_severity,incident_state,incident_hour_of_the_day,number_of_vehicles_involved,bodily_injuries,witnesses,injury_claim,property_claim,vehicle_claim,auto_year,total_claim_amount,fraud_reported
+271,22,IN,2000,1988.56,0,Parked Car,Side Collision,Major Damage,VA,23,1,1,1,26445,7788,50589,2007,84822,1
+107,39,IN,2000,2243.67,1000000,Parked Car,Front Collision,Major Damage,PA,16,3,0,2,29048,15689,77276,2009,122013,1
+103,43,IN,1000,541.72,1000000,Multi-vehicle Collision,?,Major Damage,NY,17,1,1,1,1436,29703,58233,2006,89372,1
+331,39,IN,500,1584.96,3000000,Parked Car,Side Collision,Total Loss,NY,7,2,2,0,8750,12478,71934,2016,93162,1
+88,46,IN,2000,1486.55,3000000,Single Vehicle Collision,Front Collision,Major Damage,OH,6,2,1,3,16122,7533,56830,2011,80485,1
+152,64,IL,500,1336.8,1000000,Multi-vehicle Collision,Front Collision,Major Damage,OH,14,3,1,2,13840,17524,40886,2012,72250,1
+49,22,OH,1000,1712.38,2000000,Single Vehicle Collision,?,Trivial Damage,NC,17,2,0,0,15449,14643,44601,2017,74693,1
+92,50,OH,1000,2215.97,3000000,Single Vehicle Collision,Front Collision,Major Damage,NY,21,4,2,0,26123,28022,58473,1999,112618,1
+390,19,IL,2000,1397.56,1000000,Vehicle Theft,Side Collision,Major Damage,SC,3,2,0,1,26140,5074,73394,2004,104608,1
+106,40,IL,2000,791.51,1000000,Single Vehicle Collision,Side Collision,Trivial Damage,OH,10,4,1,0,25322,26426,28160,2021,79908,1
